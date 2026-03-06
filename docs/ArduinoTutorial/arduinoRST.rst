@@ -8,7 +8,7 @@
 .. toctree::
     :maxdepth: 1
 
-:download:`点击下载资料文件<Mixly代码.zip>`
+:download:`点击下载资料文件<Arduino资料.zip>`
 		
 2.2 Arduino IDE 基础教程
 =========================
